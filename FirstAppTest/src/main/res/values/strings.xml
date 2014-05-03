@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">First App Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity2_textView">This is activity 2</string>
+    <string name="activity3_textView">This is activity 3</string>
+    <string name="action_showActivity2">Show Activity 2</string>
+    <string name="action_showActivity3">Show Activity 3</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_showToast">Toast</string>
+    <string name="action_close">Close</string>
+    <string name="thisIsAToast">This is a toast</string>
+    <string name="bottomTextView">Bottom Section TextView</string>
+    <string name="firstTopTextView">First Top</string>
+    <string name="secondTopTextView">Second Top</string>
+    <string name="topSectionButton">Click Me!</string>
+
+</resources>
